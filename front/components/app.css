@@ -1,0 +1,4 @@
+.ant-menu-item-active,
+.ant-menu-item-selected {
+    border-bottom-style: none;
+}
