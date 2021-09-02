@@ -17,7 +17,7 @@
     "datalist-polyfill": "^1.23.3",
     "dotenv": "^8.2.0",
     "express-session": "^1.17.0",
-    "immer": "^5.0.0",
+    "immer": "^9.0.6",
     "morgan": "^1.9.1",
     "next": "^9.1.2",
     "next-redux-saga": "^4.1.2",
